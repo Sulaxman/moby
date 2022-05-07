@@ -1,0 +1,4 @@
+Containers can be difficult to manage as deployments scale and/or expand to a hybrid environment.
+Enterprise IT is forced to maintain two fundamentally different application deployment environments:
+cloud-native applications designed with microservices and DevOps principles;
+and monolithic, non-cloud-native applications deployed through traditional IT practices.
